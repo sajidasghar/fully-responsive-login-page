@@ -1,3 +1,2 @@
 Fully responsive login page uisng html,css and javaScript
-
-![preview](https://github.com/sajidasghar/fully-responsive-login-page/assets/152764869/44270dc0-e3f9-4f08-8cbf-a33ac30e7319)
+![responsive login page](https://github.com/sajidasghar/fully-responsive-login-page/assets/152764869/46152520-da43-4fc0-87b7-58c558c6ef67)
